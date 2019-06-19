@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.orderbook{
+  padding: 20px;
+  display:  flex;
+  min-width: 300px;
+  justify-content: space-around
+}
+
+.buy {
+  padding: 10px;
+  color:  green;
+}
+
+.sell {
+  padding: 10px;
+  color: red;
+}
