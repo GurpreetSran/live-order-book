@@ -15,3 +15,14 @@ You will also see any lint errors in the console.
 ### `Note`
 
 Live order book logic is working as expected. UI is minimal in order to make logic functional. The default book uses 1-4 ids. These can be used in order to test 'cancel' logic.
+
+There is no validation or error handling at this point.
+
+This is a react based component which can be shared across all react based applications easily.
+
+
+
+
+
+
+![Screenshot](book.png)
